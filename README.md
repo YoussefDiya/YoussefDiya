@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Youssef Diya, a senior software developer.
 - 👀 I’m interested in SharePoint and Power Platform.
 - 🌱 I’m currently learning ReactJS and Power Platform development.
-- 💞️ I’m looking to collaborate on power platform applications
+- 💞️ I’m looking to collaborate on power platform applications and SPFX applications
 - 📫 You can reach me over my Email address youssef.h.diya@outlook.com.
 
 <!---
